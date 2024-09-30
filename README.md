@@ -24,7 +24,7 @@ This project aims to build a logistic regression model to assign a lead score (0
 #### How to Run
 1. Clone the repository.
 2. Install required libraries: `pip install -r requirements.txt`
-3. Run the `lead_scoring.ipynb` notebook to train the model and generate lead scores.
+3. Run the `lead_scoring_case_study.ipynb` notebook to train the model and generate lead scores.
 
 #### Results
 The model outputs a lead score between 92%, helping X Education identify high-priority leads with a higher likelihood of conversion.
